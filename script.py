@@ -1,4 +1,4 @@
-with open('readme.md', 'r') as file:
+with open('README.md', 'r') as file:
     content = file.read()
 
 
