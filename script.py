@@ -5,5 +5,5 @@ with open('readme.md', 'r') as file:
 content = content.replace('Dynamic Programming', '###REPLACE###').replace('Docker', 'Dynamic Programming').replace('###REPLACE###', 'Docker', 1)
 
 
-with open('readme.md', 'w') as file:
+with open('README.md', 'w') as file:
     file.write(content)
