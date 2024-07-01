@@ -31,9 +31,10 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BertDrei&theme=aura&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BertDrei&theme=aura&hide_border=false" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertDrei&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BertDrei&theme=aura&hide_border=false&include_all_commits=false&count_private=false" img height="200" img />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertDrei&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" img height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BertDrei&theme=aura&hide_border=false" img height="200" />
+  
 
   ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
